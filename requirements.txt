@@ -1,0 +1,33 @@
+# Audio Analysis (911-calls-wav2vec2)
+transformers
+librosa
+soundfile
+
+# PDF Analysis (student2)
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+
+# Image Analysis (student3)
+roboflow
+ultralytics
+opencv-python-headless
+
+# Video Analysis (student4)
+torch
+torchvision
+
+# Text Analysis (student5)
+nltk
+
+# Shared across all notebooks
+pandas
+numpy
+spacy
+
+# spaCy language model (run after install)
+# python -m spacy download en_core_web_sm
+
+# System dependencies (install separately)
+# sudo apt-get install -y poppler-utils tesseract-ocr
