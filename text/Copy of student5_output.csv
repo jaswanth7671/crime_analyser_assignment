@@ -1,0 +1,116 @@
+Text_ID,Crime_Type,Location_Entity,Sentiment,Topic,Severity_Label
+TXT_001,Disturbance,Alabama,Negative,Disturbance,Medium
+TXT_002,Disturbance,"Rocky Mount, N.C.",Negative,Disturbance,Medium
+TXT_003,Disturbance,Chicago,Negative,Disturbance,Medium
+TXT_004,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_005,Murder,London,Negative,Murder,High
+TXT_006,Disturbance,London,Negative,Disturbance,Medium
+TXT_007,Robbery,"Buffalo, NY",Negative,Robbery,High
+TXT_008,Disturbance,Pakistan,Negative,Disturbance,Medium
+TXT_009,Disturbance,"Washington, DC",Negative,Disturbance,Medium
+TXT_010,Disturbance,Baltimore,Positive,Disturbance,Medium
+TXT_011,Theft,"Essex, England",Negative,Theft,Medium
+TXT_012,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_013,Disturbance,"Devon and Cornwall, England",Negative,Disturbance,Medium
+TXT_014,Disturbance,"Washington, D.C.",Negative,Disturbance,Medium
+TXT_015,Disturbance,"York,North Yorkshire",Negative,Disturbance,Medium
+TXT_016,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_017,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_018,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_019,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_020,Disturbance,University of Southern Comfort,Negative,Disturbance,Medium
+TXT_021,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_022,Disturbance,SIGMA LAND blasting Hatch,Negative,Disturbance,Medium
+TXT_023,Disturbance,Berlin,Negative,Disturbance,Medium
+TXT_024,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_025,Disturbance,USC '15 • D(M)V,Negative,Disturbance,Medium
+TXT_026,Theft,Delhi,Negative,Theft,Medium
+TXT_027,Disturbance,Mumbai,Negative,Disturbance,Medium
+TXT_028,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_029,Disturbance,Victoria bc,Negative,Disturbance,Medium
+TXT_030,Disturbance,Sydney Australia,Negative,Disturbance,Medium
+TXT_031,Fire,FACEBOOK,Negative,Fire,Low
+TXT_032,Disturbance,South Africa,Negative,Disturbance,Medium
+TXT_033,Disturbance,Onitsha,Negative,Disturbance,Medium
+TXT_034,Disturbance,California,Negative,Disturbance,Medium
+TXT_035,Disturbance,"Cranston, RI",Negative,Disturbance,Medium
+TXT_036,Disturbance,FACEBOOK,Negative,Disturbance,Medium
+TXT_037,Fraud,Petaluma,Negative,Fraud,Low
+TXT_038,Disturbance,Bay Area,Negative,Disturbance,Medium
+TXT_039,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_040,Disturbance,Ontario,Negative,Disturbance,Medium
+TXT_041,Disturbance,St. Louis County,Negative,Disturbance,Medium
+TXT_042,Disturbance,Hell,Negative,Disturbance,Medium
+TXT_043,Fraud,"• Afghanistan, CA •",Negative,Fraud,Low
+TXT_044,Assault,"Capital, India",Negative,Assault,High
+TXT_045,Disturbance,Pontchartrain Park,Negative,Disturbance,Medium
+TXT_046,Assault,Unknown,Negative,Assault,High
+TXT_047,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_048,Murder,"San Dimas, CA",Negative,Murder,High
+TXT_049,Fraud,Petaluma,Negative,Fraud,Low
+TXT_050,Disturbance,/dev/null,Negative,Disturbance,Medium
+TXT_051,Fraud,Petaluma,Negative,Fraud,Low
+TXT_052,Disturbance,Pontchartrain Park http://t.co/ikLjlj9V6V,Negative,Disturbance,Medium
+TXT_053,Disturbance,Detroit,Negative,Disturbance,Medium
+TXT_054,Disturbance,Florida,Negative,Disturbance,Medium
+TXT_055,Disturbance,"Toledo, OH",Negative,Disturbance,Medium
+TXT_056,Disturbance,"Toledo, OH",Negative,Disturbance,Medium
+TXT_057,Disturbance,Lincolnshire,Negative,Disturbance,Medium
+TXT_058,Fraud,Petaluma,Negative,Fraud,Low
+TXT_059,Disturbance,"Sacramento, CA.",Negative,Disturbance,Medium
+TXT_060,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_061,Disturbance,"Toledo, OH",Negative,Disturbance,Medium
+TXT_062,Disturbance,"Toledo, OH",Negative,Disturbance,Medium
+TXT_063,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_064,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_065,Murder,Unknown,Negative,Murder,High
+TXT_066,Disturbance,California,Negative,Disturbance,Medium
+TXT_067,Disturbance,Pontchartrain Park,Negative,Disturbance,Medium
+TXT_068,Disturbance,Pontchartrain Park,Negative,Disturbance,Medium
+TXT_069,Disturbance,Pontchartrain Park,Negative,Disturbance,Medium
+TXT_070,Disturbance,"Hopkinsville, Ky.",Negative,Disturbance,Medium
+TXT_071,Disturbance,Simi Valley,Negative,Disturbance,Medium
+TXT_072,Disturbance,Pontchartrain Park,Negative,Disturbance,Medium
+TXT_073,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_074,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_075,Disturbance,"Hopkinsville, Ky.",Negative,Disturbance,Medium
+TXT_076,Disturbance,Pontchartrain Park http://t.co/BzP5fIOhAo,Negative,Disturbance,Medium
+TXT_077,Disturbance,Springfield,Negative,Disturbance,Medium
+TXT_078,Disturbance,"Springfield, MO",Negative,Disturbance,Medium
+TXT_079,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_080,Disturbance,West Yorkshire’s,Negative,Disturbance,Medium
+TXT_081,Disturbance,San Francisco,Negative,Disturbance,Medium
+TXT_082,Disturbance,Mountains of Madness,Negative,Disturbance,Medium
+TXT_083,Disturbance,@GoodGirlBackUp,Negative,Disturbance,Medium
+TXT_084,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_085,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_086,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_087,Disturbance,"Nairobi , Kenya",Negative,Disturbance,Medium
+TXT_088,Disturbance,All Round The World,Negative,Disturbance,Medium
+TXT_089,Disturbance,"California, Estados Unidos",Negative,Disturbance,Medium
+TXT_090,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_091,Disturbance,"Ridgeland, Mississippi",Positive,Disturbance,Medium
+TXT_092,Disturbance,"Delhi NCR, India + California ",Negative,Disturbance,Medium
+TXT_093,Disturbance,"Denver, CO",Negative,Disturbance,Medium
+TXT_094,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_095,Disturbance,"Hertfordshire, England, UK",Positive,Disturbance,Medium
+TXT_096,Disturbance,On the road with Rick,Negative,Disturbance,Medium
+TXT_097,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_098,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_099,Fraud,"The Shoals, Alabama",Negative,Fraud,Low
+TXT_100,Disturbance,UK,Negative,Disturbance,Medium
+TXT_101,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_102,Disturbance,Los Angeles Digital Journo,Negative,Disturbance,Medium
+TXT_103,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_104,Murder,United Kingdom,Negative,Murder,High
+TXT_105,Assault,Worldwide ,Negative,Assault,High
+TXT_106,Assault,Unknown,Negative,Assault,High
+TXT_107,Assault,Michigan - Worldwide,Negative,Assault,High
+TXT_108,Disturbance,Here But I'm Gone,Negative,Disturbance,Medium
+TXT_109,Disturbance,Delhi,Negative,Disturbance,Medium
+TXT_110,Disturbance,Unknown,Negative,Disturbance,Medium
+TXT_111,Disturbance,Ontario,Negative,Disturbance,Medium
+TXT_112,Disturbance,"Windber, PA",Negative,Disturbance,Medium
+TXT_113,Assault,Anywhere USA,Negative,Assault,High
+TXT_114,Disturbance,"San Jose, Ca",Negative,Disturbance,Medium
+TXT_115,Disturbance,United States,Negative,Disturbance,Medium
