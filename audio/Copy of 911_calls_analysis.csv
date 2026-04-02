@@ -1,0 +1,4 @@
+Call_ID,Transcript,Extracted_Event,Location,Sentiment,Urgency_Score
+C001,SER LAY HOOK SCHOOL I THINK THERE'S SOMEBODY SHOOTING IN HERE I SCANDY HOOK SCHOOL THEY WON'T MAKE,Shooting / active shooter,Sandy Hook School,Distressed,1.0
+C002,MURVER JAKE BER O GOW MA E TOLD TOLD BECCAS AND DRAWA TAT TOT THAT WHAT'S GOING ON DONE THER BER'S THAT BOY BUT YOU,Shooting / active shooter,Sandy Hook School,Calm,0.84
+C003,I CAN AN DRUNK IT SOUNDLY THEN A I CETER IN THE HALLWAY I'M A TEACHER IN A SQUIRREL O E WERE ARE YOU IN,Shooting / active shooter,School hallway,Distressed,0.99
