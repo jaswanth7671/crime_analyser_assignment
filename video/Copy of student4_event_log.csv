@@ -1,0 +1,28 @@
+Clip_ID,Timestamp,Frame_ID,Event_Detected,Persons_Count,Confidence
+Walk1,00:00:03,FRM_0075,Person Running,1 person,0.32
+Walk1,00:00:09,FRM_0225,Person Sitting,1 person ,0.25
+Walk1,00:00:12,FRM_0300,Person Running,1 person,0.35
+Walk1,00:00:16,FRM_0400,Person Walking,1 person ,0.26
+Walk1,00:00:22,FRM_0550,Person Sitting,1 person ,0.26
+Browse2,00:00:00,FRM_0000,Person Sitting,1 person,0.33
+Browse2,00:00:04,FRM_0100,Person Running,1 person,0.42
+Browse2,00:00:09,FRM_0225,Person Sitting,1 person ,0.3
+Browse2,00:00:16,FRM_0400,Person Walking,1 person,0.38
+Browse2,00:00:22,FRM_0550,Person Sitting,2 persons,0.66
+Browse2,00:00:31,FRM_0775,Person Walking,1 person,0.33
+Rest_FallOnFloor,00:00:01,FRM_0025,Person Walking,2 persons,0.39
+Rest_FallOnFloor,00:00:14,FRM_0350,Person Sitting,1 person ,0.29
+Rest_FallOnFloor,00:00:24,FRM_0600,Person Walking,1 person,0.33
+Rest_FallOnFloor,00:00:28,FRM_0700,Person Collapsing,2 persons,0.78
+Rest_InChair,00:00:04,FRM_0100,Person Running,1 person,0.34
+Rest_InChair,00:00:13,FRM_0325,Person Walking,1 person ,0.31
+Rest_InChair,00:00:19,FRM_0475,Person Sitting,1 person ,0.26
+Rest_InChair,00:00:25,FRM_0625,Person Sitting,1 person,0.23
+Rest_InChair,00:00:29,FRM_0725,Person Sitting,1 person ,0.34
+Rest_InChair,00:00:37,FRM_0925,Person Sitting,1 person,0.27
+LeftBox,00:00:00,FRM_0000,Person Running,1 person,0.29
+LeftBox,00:00:04,FRM_0100,Person Running,1 person,0.31
+LeftBox,00:00:08,FRM_0200,Person Running,2 persons,0.37
+LeftBox,00:00:19,FRM_0475,Person Running,1 person,0.3
+LeftBox,00:00:23,FRM_0575,Person Sitting,1 person ,0.44
+LeftBox,00:00:31,FRM_0775,Person Sitting,1 person ,0.34
